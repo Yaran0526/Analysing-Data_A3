@@ -8,7 +8,9 @@ The notebook showcases the application of LDA Topic Modeling to analyze tweets f
 Dataset
 
 —— trump_tweets
+
 —— sanders_tweets
+
 Brief Description: [Username, TweetId, Title, Content]
 
 Key Topics: data preprocessing, data cleansing, LDA topic modeling, tomopy, topic coherence, topic probability distributions, visualizations
